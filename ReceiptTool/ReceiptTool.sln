@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReceiptTool", "ReceiptTool.csproj", "{A86481FF-8CF0-48A4-933D-5FD9FAC984F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTool.Tests", "..\ReceiptTool.Tests\ReceiptTool.Tests.csproj", "{DFD65859-74BA-46F7-945E-8457F11FD2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86481FF-8CF0-48A4-933D-5FD9FAC984F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86481FF-8CF0-48A4-933D-5FD9FAC984F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86481FF-8CF0-48A4-933D-5FD9FAC984F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86481FF-8CF0-48A4-933D-5FD9FAC984F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD65859-74BA-46F7-945E-8457F11FD2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD65859-74BA-46F7-945E-8457F11FD2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD65859-74BA-46F7-945E-8457F11FD2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD65859-74BA-46F7-945E-8457F11FD2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1574FAF1-CFBA-4E6A-AEC5-C0FCC0EE2766}
+	EndGlobalSection
+EndGlobal
